@@ -1,0 +1,22 @@
+{
+  "name": "NekopoiScrapper",
+  "version": "1.0.0",
+  "description": "Scrapper for nekopoi",
+  "main": "./NekopoiScrapper/index.js",
+  "scripts": {
+    "start": "node ./example.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/moepoi/NekopoiScrapper.git"
+  },
+  "author": {
+    "name": "moepoi",
+    "email": "moepoi@protonmail.com"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "cheerio": "^1.0.0-rc.2"
+  }
+}
