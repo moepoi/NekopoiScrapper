@@ -2,6 +2,8 @@
 
 *Scrapper for nekopoi*
 
+[![pipeline status](https://gitlab.com/moepoi/NekopoiScrapper/badges/master/pipeline.svg)](https://gitlab.com/moepoi/NekopoiScrapper/-/commits/master)
+
 ## Installation
 
 ```sh
