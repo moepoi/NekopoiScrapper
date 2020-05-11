@@ -1,8 +1,7 @@
 image: node:latest
-stages: [ init, run ]
+stages: [ run ]
 
 cache:
-  stage: init
   paths:
     - node_modules/
 
