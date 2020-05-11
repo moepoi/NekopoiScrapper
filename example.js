@@ -2,8 +2,8 @@ const NekopoiScrapper = require('./NekopoiScrapper');
 
 // Latest Release
 NekopoiScrapper.getLatest()
-    .then((data) => console.log(data));
+    .then(result => console.log(result))
 
 // Get Page Info
-NekopoiScrapper.getInfo("http://nekopoi.cash/dokidoki-little-ooyasan-episode-4-subtitle-indonesia")
-    .then((data) => console.log(data));
+NekopoiScrapper.getInfo("https://nekopoi.care/sexfriend-gakuen-episode-1-subtitle-indonesia/")
+    .then(result => console.log(result));
