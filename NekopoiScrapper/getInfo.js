@@ -2,6 +2,7 @@
  * @author Moe Poi <moepoi@protonmail.com>
  * @license MIT
  */
+
 "use strict";
 
 const axios = require('axios');
